@@ -352,9 +352,6 @@ body {
     padding: 50px 30px;
     background-size: 60%, 60%;
     overflow: visible;
-    background-image: url("Challenge/social-proof-section-master/images/bg-pattern-top-mobile.svg"),
-      url("Challenge/social-proof-section-master/images/bg-pattern-bottom-mobile.svg");
-    background-size: 100vw, auto;
   }
 
   .content {
@@ -450,6 +447,9 @@ body {
   body {
     padding: 40px 20px;
     font-size: 14px;
+    background-image: url("Challenge/social-proof-section-master/images/bg-pattern-top-mobile.svg"),
+      url("Challenge/social-proof-section-master/images/bg-pattern-bottom-mobile.svg");
+    background-size: auto, auto;
   }
 
   .content {
