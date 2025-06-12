@@ -19,8 +19,8 @@ body {
   padding: 100px;
   overflow: hidden;
   min-height: 100vh;
-  background-image: url("Challenge/social-proof-section-master/images/bg-pattern-top-desktop.svg"),
-    url("Challenge/social-proof-section-master/images/bg-pattern-bottom-desktop.svg");
+  background-image: url("/Challenge/social-proof-section-master/images/bg-pattern-top-desktop.svg"),
+    url("/Challenge/social-proof-section-master/images/bg-pattern-bottom-desktop.svg");
   background-repeat: no-repeat, no-repeat;
   background-position: top left, bottom right;
   background-size: auto, auto;
@@ -447,8 +447,8 @@ body {
   body {
     padding: 40px 20px;
     font-size: 14px;
-    background-image: url("Challenge/social-proof-section-master/images/bg-pattern-top-mobile.svg"),
-      url("Challenge/social-proof-section-master/images/bg-pattern-bottom-mobile.svg");
+    background-image: url("/Challenge/social-proof-section-master/images/bg-pattern-top-mobile.svg"),
+      url("/Challenge/social-proof-section-master/images/bg-pattern-bottom-mobile.svg");
     background-size: auto, auto;
   }
 
